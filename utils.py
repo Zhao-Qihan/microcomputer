@@ -25,7 +25,7 @@ def qa_agent(question, memory, api_key):
 
     #嵌入
     embeddings_model = OpenAIEmbeddings(model="text-embedding-3-large",
-                                        openai_api_key="sk-k3M6X4FHF5GCyNnt6c2aD88122Ab40EaA91bB7Ce50B7EeA6",
+                                        openai_api_key="sk-zK4521b809ZLivb817Oxxyqe6v2gK9wL8lqtUSi8uwBHapEA",
                                         openai_api_base="https://api.aigc369.com/v1")
 
     #储存
